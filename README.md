@@ -1,6 +1,6 @@
 # SR-FLIPFLOP-USING-CASE
-### NAME:SENTHIL ARUNACHALAM .P
-### REG.NO:24900904
+### NAME: PRIYAN
+### REG.NO: 24000051
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables

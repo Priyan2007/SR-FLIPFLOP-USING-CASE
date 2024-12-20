@@ -45,6 +45,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 5.For different input combinations generate the timing diagram.
 
+
 **PROGRAM**
 ![program](https://github.com/user-attachments/assets/329c5a61-442c-4dc1-b7b7-642becaa0fbc)
 

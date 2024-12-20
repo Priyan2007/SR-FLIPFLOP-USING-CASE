@@ -1,6 +1,6 @@
-# SR-FLIPFLOP-USING-CASE
 ### NAME: PRIYAN
 ### REG.NO: 24000051
+### SR FLIPFLOP USING CASE
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables

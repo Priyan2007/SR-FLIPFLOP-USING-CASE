@@ -45,14 +45,16 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 5.For different input combinations generate the timing diagram.
 
-
 **PROGRAM**
+
 ![program](https://github.com/user-attachments/assets/329c5a61-442c-4dc1-b7b7-642becaa0fbc)
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![gate](https://github.com/user-attachments/assets/9f20e16a-259c-427a-a0bc-8b53f6b10787)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![wave form](https://github.com/user-attachments/assets/2588ff45-2caf-4c00-88c5-e26e75d9ac3b)
 
 
